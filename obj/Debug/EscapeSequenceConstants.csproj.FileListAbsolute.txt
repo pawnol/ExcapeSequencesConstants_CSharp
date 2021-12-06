@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\bin\Debug\EscapeSequenceConstants.exe.config
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\bin\Debug\EscapeSequenceConstants.exe
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\bin\Debug\EscapeSequenceConstants.pdb
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\obj\Debug\EscapeSequenceConstants.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\obj\Debug\EscapeSequenceConstants.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\obj\Debug\EscapeSequenceConstants.exe
+C:\Users\Nolan Pawelski\Desktop\EscapeSequenceConstants\obj\Debug\EscapeSequenceConstants.pdb
